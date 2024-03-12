@@ -49,7 +49,7 @@ The project plans to grow by using advanced Azure Cognitive Services, adding rea
 ## Screenshots
 
 ### Azure App Service
-![Azure App Service](./screenshots/app-service.png)
+![Azure App Service](./app-service.png)
 
 ### Azure Cosmos DB
 ![Azure Cosmos DB](./screenshots/translator-db.png)
