@@ -52,16 +52,16 @@ The project plans to grow by using advanced Azure Cognitive Services, adding rea
 ![Azure App Service](./app-service.png)
 
 ### Azure Cosmos DB
-![Azure Cosmos DB](./screenshots/translator-db.png)
+![Azure Cosmos DB](./translator-db.png)
 
 ### Azure AI Translator Service
-![Azure AI Translator Service](./screenshots/translator.png)
+![Azure AI Translator Service](./translator.png)
 
 ### Working Live Project Display
-![Working Live Project](./screenshots/text-translator.png)
+![Working Live Project](./text-translator.png)
 
 ### Resource Visualizer
-![Resource Visualizer](./screenshots/resource-visu.png)
+![Resource Visualizer](./resource-visu.png)
 
 ## Final Project Statement
 The Text Translator Website is a comprehensive solution leveraging Azure services to offer users a versatile platform for efficient text manipulation, translation, and summarization. By harnessing the power of Azure App Service, Cosmos DB, Static Web Apps, and the Azure AI Translator Service, this project provides a seamless and scalable text management experience, catering to diverse user needs in a connected global landscape.
