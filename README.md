@@ -5,8 +5,8 @@
 
 ## Project Details
 **Project Demo URL:** [https://translatorr.azurewebsites.net/](https://translatorr.azurewebsites.net/)  
-**Demo Video URL:**  [https://drive.google.com/file/d/1Nlrc_KM9Ed9POH-7pauok_m4hyyVe5Xc/view?usp=drive_link] 
-                         (https://drive.google.com/file/d/1R2OnW77QzYfuRbZpATtiZ9PBqKqtVwGp/view?usp=sharing)
+**Demo Video URL:**  [https://drive.google.com/file/d/1OQfAv0sFTNlqZggwnnaaFK9t4E2Wc7H3/view?usp=sharing] 
+                         (https://drive.google.com/file/d/1OQfAv0sFTNlqZggwnnaaFK9t4E2Wc7H3/view?usp=sharing)
                          
 **Github Repository URL:** [https://github.com/Pranayachavan/Text-Translator](https://github.com/Pranayachavan/Text-Translator)  
 **Industry:** Lifestyle and Technology
