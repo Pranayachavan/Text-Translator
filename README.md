@@ -57,7 +57,7 @@ The project plans to grow by using advanced Azure Cognitive Services, adding rea
 ![Azure AI Translator Service](./translator.png)
 
 ### Working Live Project Display
-![Working Live Project](./text-translator.png)
+![Working Live Project](./text-translator.jpeg)
 
 ### Resource Visualizer
 ![Resource Visualizer](./resource-visu.png)
